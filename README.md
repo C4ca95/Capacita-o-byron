@@ -37,7 +37,7 @@
 
 # clonar o repositório
 
-$ git clone https://github.com/C4ca95/Capacita-o-byron.git
+$ git clone https://github.com/C4ca95/Capacita-o-byron.git <nome da sua pasta de projeto>
 
 ```
 ---
